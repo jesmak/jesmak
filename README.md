@@ -22,6 +22,15 @@ Things I've built for my own home and shared for anyone to use, many of them on 
 | [compact-uv-index-card](https://github.com/jesmak/compact-uv-index-card)     | The UV index as a sun with a ray for each step                              |
 | [thl](https://github.com/jesmak/thl)                                         | Weekly infectious disease numbers from THL                                  |
 | [euribor_rates](https://github.com/jesmak/euribor_rates)                     | The Euribor rates                                                           |
+| [syke_hydrology](https://github.com/jesmak/syke_hydrology)                   | Lake and river measurements from Syke, such as water level, ice and snow    |
+
+### Feeds and lists
+
+| Repo                                                   | What                                                                                    |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| [feeds-card](https://github.com/jesmak/feeds-card)     | RSS and Atom feeds, a list per feed with the unseen items first                         |
+| [feed_entries](https://github.com/jesmak/feed_entries) | An RSS or Atom feed's newest entries in a sensor, for dashboard cards                   |
+| [lists-card](https://github.com/jesmak/lists-card)     | Any list an entity holds, such as tasks, events or notices, grouped by time or by a key |
 
 ### Parcels
 
