@@ -2,16 +2,17 @@ Things I've built for my own home and shared for anyone to use, many of them on 
 
 ### Maps, traffic and departures
 
-| Repo                                                           | What                                                                                   |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [map-feed-card](https://github.com/jesmak/map-feed-card)       | Map feeds such as trains, ships, buses, aircraft and birds on Home Assistant's own map |
-| [departures-card](https://github.com/jesmak/departures-card)   | The next departures and arrivals at stops, stations and airports                       |
-| [digitraffic_live](https://github.com/jesmak/digitraffic_live) | Fintraffic's live ships, trains and road traffic                                       |
-| [digitransit_live](https://github.com/jesmak/digitransit_live) | Digitransit's live buses, trams and stop departures                                    |
-| [adsb_live](https://github.com/jesmak/adsb_live)               | The aircraft your own ADS-B receiver hears, with adsb.fi's                             |
-| [finavia_flights](https://github.com/jesmak/finavia_flights)   | Departures and arrivals at Finavia's airports                                          |
-| [finnish_airspace](https://github.com/jesmak/finnish_airspace) | Airspace restrictions in force in Finland                                              |
-| [birds_nearby](https://github.com/jesmak/birds_nearby)         | Bird sightings near you, from eBird                                                    |
+| Repo                                                             | What                                                                                   |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [map-feed-card](https://github.com/jesmak/map-feed-card)         | Map feeds such as trains, ships, buses, aircraft and birds on Home Assistant's own map |
+| [map-timeline-card](https://github.com/jesmak/map-timeline-card) | Weather radar, clouds, lightning and other map layers live or on one timeline          |
+| [departures-card](https://github.com/jesmak/departures-card)     | The next departures and arrivals at stops, stations and airports                       |
+| [digitraffic_live](https://github.com/jesmak/digitraffic_live)   | Fintraffic's live ships, trains and road traffic                                       |
+| [digitransit_live](https://github.com/jesmak/digitransit_live)   | Digitransit's live buses, trams and stop departures                                    |
+| [adsb_live](https://github.com/jesmak/adsb_live)                 | The aircraft your own ADS-B receiver hears, with adsb.fi's                             |
+| [finavia_flights](https://github.com/jesmak/finavia_flights)     | Departures and arrivals at Finavia's airports                                          |
+| [finnish_airspace](https://github.com/jesmak/finnish_airspace)   | Airspace restrictions in force in Finland                                              |
+| [birds_nearby](https://github.com/jesmak/birds_nearby)           | Bird sightings near you, from eBird                                                    |
 
 ### Weather and public data
 
@@ -20,6 +21,7 @@ Things I've built for my own home and shared for anyone to use, many of them on 
 | [fmi](https://github.com/jesmak/fmi)                                         | The Finnish Meteorological Institute's observations, forecasts and warnings |
 | [compact-rain-gauge-card](https://github.com/jesmak/compact-rain-gauge-card) | The day's rain as a filling drop                                            |
 | [compact-uv-index-card](https://github.com/jesmak/compact-uv-index-card)     | The UV index as a sun with a ray for each step                              |
+| [aurora_finland](https://github.com/jesmak/aurora_finland)                   | Aurora visibility in Finland, from FMI's magnetometer stations              |
 | [thl](https://github.com/jesmak/thl)                                         | Weekly infectious disease numbers from THL                                  |
 | [euribor_rates](https://github.com/jesmak/euribor_rates)                     | The Euribor rates                                                           |
 | [syke_hydrology](https://github.com/jesmak/syke_hydrology)                   | Lake and river measurements from Syke, such as water level, ice and snow    |
@@ -46,6 +48,8 @@ Things I've built for my own home and shared for anyone to use, many of them on 
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | [room-lights-card](https://github.com/jesmak/room-lights-card)                                   | A room's lights and scenes in one card                            |
 | [mower-status-card](https://github.com/jesmak/mower-status-card)                                 | A robotic lawn mower's state, battery and progress                |
+| [state-time-card](https://github.com/jesmak/state-time-card)                                     | How long an entity spent in each state, day by day                |
+| [resmed_myair_sleep](https://github.com/jesmak/resmed_myair_sleep)                               | A ResMed CPAP's nights from myAir, every night kept               |
 | [updates-card](https://github.com/jesmak/updates-card)                                           | Update entities in groups                                         |
 | [wud_queue](https://github.com/jesmak/wud_queue)                                                 | Installs What's Up Docker's container updates one at a time       |
 | [wud-queue-card](https://github.com/jesmak/wud-queue-card)                                       | What's Up Docker's container updates, grouped by compose project  |
