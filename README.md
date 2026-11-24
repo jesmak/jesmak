@@ -39,7 +39,6 @@ Things I've built for my own home and shared for anyone to use, many of them on 
 | [package-tracker-card](https://github.com/jesmak/package-tracker-card) | The packages coming to you, from any tracking integration |
 | [posti_tracking](https://github.com/jesmak/posti_tracking)             | The packages of an OmaPosti account                       |
 | [matkahuolto_tracking](https://github.com/jesmak/matkahuolto_tracking) | The packages of a Matkahuolto account                     |
-| [postnord_tracking](https://github.com/jesmak/postnord_tracking)       | The packages of a PostNord account                        |
 
 ### Around the house
 
