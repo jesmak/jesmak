@@ -25,6 +25,7 @@ Things I've built for my own home and shared for anyone to use, many of them on 
 | [thl](https://github.com/jesmak/thl)                                         | Weekly infectious disease numbers from THL                                  |
 | [euribor_rates](https://github.com/jesmak/euribor_rates)                     | The Euribor rates                                                           |
 | [syke_hydrology](https://github.com/jesmak/syke_hydrology)                   | Lake and river measurements from Syke, such as water level, ice and snow    |
+| [fingrid](https://github.com/jesmak/fingrid)                                 | Finland's electricity production, consumption and forecasts, from Fingrid   |
 
 ### Feeds and lists
 
@@ -44,15 +45,16 @@ Things I've built for my own home and shared for anyone to use, many of them on 
 
 ### Around the house
 
-| Repo                                                                                             | What                                                              |
-| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| [room-lights-card](https://github.com/jesmak/room-lights-card)                                   | A room's lights and scenes in one card                            |
-| [mower-status-card](https://github.com/jesmak/mower-status-card)                                 | A robotic lawn mower's state, battery and progress                |
-| [state-time-card](https://github.com/jesmak/state-time-card)                                     | How long an entity spent in each state, day by day                |
-| [resmed_myair_sleep](https://github.com/jesmak/resmed_myair_sleep)                               | A ResMed CPAP's nights from myAir, every night kept               |
-| [updates-card](https://github.com/jesmak/updates-card)                                           | Update entities in groups                                         |
-| [wud_queue](https://github.com/jesmak/wud_queue)                                                 | Installs What's Up Docker's container updates one at a time       |
-| [wud-queue-card](https://github.com/jesmak/wud-queue-card)                                       | What's Up Docker's container updates, grouped by compose project  |
-| [github-repos-card](https://github.com/jesmak/github-repos-card)                                 | Versions, issues and pull requests of the repositories you follow |
-| [steam-card-compact](https://github.com/jesmak/steam-card-compact)                               | What your Steam friends are playing                               |
-| [roborock-s5-valetudo-voice-change](https://github.com/jesmak/roborock-s5-valetudo-voice-change) | A guide and scripts for changing the voice of a Roborock S5       |
+| Repo                                                                                             | What                                                                   |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| [room-lights-card](https://github.com/jesmak/room-lights-card)                                   | A room's lights and scenes in one card                                 |
+| [mower-status-card](https://github.com/jesmak/mower-status-card)                                 | A robotic lawn mower's state, battery and progress                     |
+| [state-time-card](https://github.com/jesmak/state-time-card)                                     | How long an entity spent in each state, day by day                     |
+| [resmed_myair_sleep](https://github.com/jesmak/resmed_myair_sleep)                               | A ResMed CPAP's nights from myAir, every night kept                    |
+| [utility_cost_tracker](https://github.com/jesmak/utility_cost_tracker)                           | What electricity, water or gas costs, each item of the bill on its own |
+| [updates-card](https://github.com/jesmak/updates-card)                                           | Update entities in groups                                              |
+| [wud_queue](https://github.com/jesmak/wud_queue)                                                 | Installs What's Up Docker's container updates one at a time            |
+| [wud-queue-card](https://github.com/jesmak/wud-queue-card)                                       | What's Up Docker's container updates, grouped by compose project       |
+| [github-repos-card](https://github.com/jesmak/github-repos-card)                                 | Versions, issues and pull requests of the repositories you follow      |
+| [steam-card-compact](https://github.com/jesmak/steam-card-compact)                               | What your Steam friends are playing                                    |
+| [roborock-s5-valetudo-voice-change](https://github.com/jesmak/roborock-s5-valetudo-voice-change) | A guide and scripts for changing the voice of a Roborock S5            |
